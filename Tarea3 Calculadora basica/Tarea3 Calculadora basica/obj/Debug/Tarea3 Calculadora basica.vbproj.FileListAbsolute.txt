@@ -1,0 +1,10 @@
+c:\users\dell\documents\visual studio 2013\Projects\Tarea3 Calculadora basica\Tarea3 Calculadora basica\bin\Debug\Tarea3 Calculadora basica.exe.config
+c:\users\dell\documents\visual studio 2013\Projects\Tarea3 Calculadora basica\Tarea3 Calculadora basica\bin\Debug\Tarea3 Calculadora basica.exe
+c:\users\dell\documents\visual studio 2013\Projects\Tarea3 Calculadora basica\Tarea3 Calculadora basica\bin\Debug\Tarea3 Calculadora basica.pdb
+c:\users\dell\documents\visual studio 2013\Projects\Tarea3 Calculadora basica\Tarea3 Calculadora basica\bin\Debug\Tarea3 Calculadora basica.xml
+c:\users\dell\documents\visual studio 2013\Projects\Tarea3 Calculadora basica\Tarea3 Calculadora basica\obj\Debug\Tarea3_Calculadora_basica.Form1.resources
+c:\users\dell\documents\visual studio 2013\Projects\Tarea3 Calculadora basica\Tarea3 Calculadora basica\obj\Debug\Tarea3_Calculadora_basica.Resources.resources
+c:\users\dell\documents\visual studio 2013\Projects\Tarea3 Calculadora basica\Tarea3 Calculadora basica\obj\Debug\Tarea3 Calculadora basica.vbproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2013\Projects\Tarea3 Calculadora basica\Tarea3 Calculadora basica\obj\Debug\Tarea3 Calculadora basica.exe
+c:\users\dell\documents\visual studio 2013\Projects\Tarea3 Calculadora basica\Tarea3 Calculadora basica\obj\Debug\Tarea3 Calculadora basica.xml
+c:\users\dell\documents\visual studio 2013\Projects\Tarea3 Calculadora basica\Tarea3 Calculadora basica\obj\Debug\Tarea3 Calculadora basica.pdb
